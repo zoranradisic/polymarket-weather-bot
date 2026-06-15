@@ -15,7 +15,7 @@ real capital.
 ## The market
 
 Polymarket lists daily markets on the high temperature of a city, split into
-degree brackets (for example "high of 18 to 20C"). Exactly one bracket wins and
+degree brackets (for example "high of 72 to 73F"). Exactly one bracket wins and
 pays out, the rest settle at zero. The market prices each bracket as an implied
 probability. If you can estimate the real probability of each bracket better than
 the market does, that gap is the edge.
